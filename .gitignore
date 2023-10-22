@@ -1,0 +1,3 @@
+project/.env
+project/composer.lock
+.mysql-data/
